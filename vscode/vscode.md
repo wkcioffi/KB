@@ -13,7 +13,7 @@ Installare **VScode**:
 
 ## Collegamento a Github
 
-- Se non è già stato fatto, procedere con l'installazione di **git** tramite la [procedura dedicata](git/git.md) e configurare l'identità corretta.
+- Se non è già stato fatto, procedere con l'installazione di **git** tramite la [procedura dedicata](/git/git.md) e configurare l'identità corretta.
 
 - Creare una cartella operativa (es: ```/home/user/vscode```) in cui clonare le cartelle dei singoli repository.
 
