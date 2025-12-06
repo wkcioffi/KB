@@ -37,9 +37,9 @@ Le estensioni si possono installare sul contesto locale (istanza di VScode avvia
 
 ### Remote SSH
 
-Questa estensione permette di collegarsi ad host remoti, avviando istanze di VScode dedicate e gestirne i file con **Explorer** come se fossero in locale.
-
 Extensions > "*Remote - SSH (Microsoft)*" Install
+
+Questa estensione permette di collegarsi ad host remoti, avviando istanze di VScode dedicate e gestirne i file con **Explorer** come se fossero in locale.
 
 ### Docker
 
